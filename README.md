@@ -9,6 +9,16 @@ This UI is designed to help keep track of real-time battle stats and target perc
 ### Latest version
 v0.0.1
 
+### Screenshots
+
+#### What to expect
+![Gym _ TORN - Brave 2_1_2025 10_30_36 PM](https://github.com/user-attachments/assets/ace5c3eb-2a89-4949-96af-b96f9fb20952)
+
+
+#### Creating a new build
+![Gym _ TORN - Brave 2_1_2025 10_35_57 PM](https://github.com/user-attachments/assets/4324cb45-40ca-42ef-b6a6-3e99ca525bea)
+
+
 ### Features
 
 #### Stats display

@@ -7,7 +7,7 @@ This UI is designed to help keep track of real-time battle stats and target perc
 - [TamperMonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en-US)
 
 ### Latest version
-v0.0.1
+[v0.0.1](https://github.com/kernel-panic-torn/stat-build-tracker/blob/main/versions/v0.0.1-latest/stat-build-tracker.js)
 
 ### Screenshots
 
